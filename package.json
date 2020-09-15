@@ -1,0 +1,31 @@
+{
+  "name": "koa-joi-validator",
+  "version": "0.0.1",
+  "description": "Koa payload validator middleware using joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "test:coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saxjst/koa-joi-validator"
+  },
+  "author": {
+    "name": "saxjst"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saxjst/koa-joi-validator/issues"
+  },
+  "homepage": "https://github.com/saxjst/koa-joi-validator#readme",
+  "keywords": [
+    "koa",
+    "middleware"
+  ],
+  "devDependencies": {
+    "coveralls": "3.0.8",
+    "jest": "24.9.0"
+  }
+}
