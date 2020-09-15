@@ -27,6 +27,6 @@
   "devDependencies": {
     "@hapi/joi": "^17.1.1",
     "coveralls": "3.0.8",
-    "jest": "24.9.0"
+    "jest": "26.4.2"
   }
 }
