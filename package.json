@@ -25,7 +25,7 @@
     "middleware"
   ],
   "devDependencies": {
-    "coveralls": "3.0.8",
+    "coveralls": "3.1.0",
     "jest": "24.9.0"
   }
 }
