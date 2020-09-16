@@ -1,5 +1,5 @@
 {
-  "name": "koa-joi-validator",
+  "name": "@saxjst/koa-joi-validator",
   "version": "0.0.1",
   "description": "Koa payload validator middleware using joi",
   "main": "index.js",
