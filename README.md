@@ -95,4 +95,4 @@ the provided validation objects.
 
 ## License
 
-MIT © [saxjst](https://saxjst.com)
+MIT © [muceres](https://forgetheweb.eu)
