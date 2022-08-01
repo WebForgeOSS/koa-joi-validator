@@ -1,11 +1,10 @@
 {
   "extends": [
-    "config:base",
-    "schedule:earlyMondays"
+    "config:base"
   ],
   "packageRules": [
     {
-      "matchUpdateTypes": ["devDependencies", "minor", "patch", "pin", "digest"],
+      "matchUpdateTypes": ["devDependencies", "major", "minor", "patch", "pin", "digest"],
       "automerge": true
     }
   ]
